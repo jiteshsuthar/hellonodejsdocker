@@ -3,7 +3,7 @@ creating Docker Image for your nodejs application.
 
 # Prerequisties
   1. A Sample Nodejs application
-  2. Docker Toolbox [My OS is Windows 7 64 bit]
+  2. Docker Toolbox [My OS is Windows 7 64 bit], you can use the link https://docs.docker.com/toolbox/toolbox_install_windows
 
 # Run nodejs application using node
 		node index.js
