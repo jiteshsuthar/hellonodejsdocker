@@ -19,7 +19,7 @@ creating Docker Image for your nodejs application.
 
 * <b>create Dockerfile</b>
 
-        Go to your node application directory and create a file named as <b>"Dockerfile"</b> [without any extension]
+        Go to your node application directory and create a file named as "Dockerfile" [without any extension]
 
     * 1st Line : Node Version
 
