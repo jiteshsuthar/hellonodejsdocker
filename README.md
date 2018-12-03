@@ -70,7 +70,7 @@ creating Docker Image for your nodejs application.
 * I have used hub.docker.com for sharing the docker image.
 * Build your image with your docker login id
  
-        docker build -t username/hellonodejsdocker .
+        docker build -t jiteshsuthar/hellonodejsdocker .
 
 * Login to docker hub
 
@@ -78,12 +78,12 @@ creating Docker Image for your nodejs application.
 
 * Push the image to docker hub
 
-        docker push username/hellonodejsdocker
+        docker push jiteshsuthar/hellonodejsdocker
         
 * Check your Docker REPOSITORY
  
-        https://hub.docker.com/r/username/hellonodejsdocker/
+        https://hub.docker.com/r/jiteshsuthar/hellonodejsdocker/
 
 # Done..Now you can now use the image on any system with Docker installed
 
-        docker run username/hellonodejsdocker
+        docker run jiteshsuthar/hellonodejsdocker
